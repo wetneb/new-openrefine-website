@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkOpenRefine_Documentation=self.webpackChunkOpenRefine_Documentation||[]).push([[4048],{4710:e=>{e.exports=JSON.parse('{"permalink":"/new-openrefine-website/blog","page":1,"postsPerPage":10,"totalPages":4,"totalCount":36,"nextPage":"/new-openrefine-website/blog/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
